@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrap{
+    width: 375px;
+    height: 812px;
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+    align-items: center;
+}
+.logo img
+{
+    float: left;
+    padding-left: 30px;
+    padding-top: 25px;
+}
+.h1
+{
+    padding: 60px;
+    font-size: 30px;
+    color: #000000;
+    font-weight: bold;
+    font-family: "Helvetica Neue";
+}
+.h2
+{ 
+    font-size: 17px;
+    line-height: 26px;
+    color: #818593;
+    font-family: "Helvetica Neue";
+    text-align: center;
+    margin-top: -53px;
+}
+.section img{
+    padding-top: 23px;
+}
+.button{
+    padding-bottom: 25px;
+}
+a:hover{
+    color: #3ae0e0;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+
+#btn_blue{
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: #225dd9;
+    color: #fff;
+    font-weight: 700;
+   margin-top: 36px;
+}
+footer{
+    padding-top: 15px;
+}
+footer i.fa.fa-facebook,.fa.fa-google,.fa.fa-phone{
+    border-radius: 50%;
+    justify-content: space-between;
+    padding: 10px;
+    font-size: 30px;
+    color: #2033a0;
+    border: 2px solid #2033a0; 
+}
+.h3{
+align-items: center;
+margin-top: 15px;
+font-size: 17px;
+color: #225dd9;
+font-weight: bold;
+font-family: "Helvetica Neue";
+}
+.h4{
+    font-size: 17px;
+    color: #818593;
+    font-weight: 500;
+    font-family: "Helvetica Neue";
+    margin-top:20px;
+   
+}
+.h5{
+font-size: 17px;
+color: #818593;
+font-weight: 500;
+font-family: "Helvetica Neue";
+margin-left: 30px;
+
+}
+#email{
+    padding:14px;
+    border:none;
+    outline: 0;
+    border-bottom:2px solid rgb(168, 155, 155); 
+    margin-top: 20px;
+}
+#pwd{
+    padding: 14px;
+    border:none;
+    outline: 0;
+    border-bottom:2px solid rgb(168, 155, 155); 
+    margin-top: 20px;
+}
+i.fa.fa-envelope-o{
+    color:#2033a0;
+    font-size: 30px;
+}
+i.fa.fa-lock{
+    color: gray;
+    font-size: 30px;
+}
+i.fa-eye-slash{
+    color: gray;
+    font-size: 30px;
+
+}
+.text6{
+font-size: 17px;
+color: #818593;
+font-weight: 500;
+font-family: "Helvetica Neue";
+margin-top: 12px;
+margin-right: -122px;
+}
